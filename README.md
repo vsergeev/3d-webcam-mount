@@ -29,7 +29,7 @@ A 3D printable webcam vise mount. Fits the standard 1/4"-20 webcam socket with a
   * [Webcam Bolt.stl](stls/Webcam%20Bolt.stl)
   * [Clamp Base Bolt.stl](stls/Clamp%20Base%20Bolt.stl) (not recommended, use metal M5x20 bolt)
 
-**Recommended Print Settings:** 0.20mm layer height, 20% infill
+**Recommended Print Settings:** 0.15mm layer height, 20% infill
 
 **Thingiverse:** https://www.thingiverse.com/thing:3336633
 
